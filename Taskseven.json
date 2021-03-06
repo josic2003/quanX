@@ -1,0 +1,7 @@
+{
+    "name": “seven head 七头”,
+    "description": “无聊弄的,
+    "task": [     
+    “0,30 0-23 * * * https://raw.githubusercontent.com/josic2003/seven/main/Task/bububao.js, tag=步步宝,  img-url=https://raw.githubusercontent.com/photonmang/quantumultX/master/cache/qmyd/qmyd.png, enabled=false"
+    ]
+}
