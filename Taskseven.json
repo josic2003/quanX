@@ -1,7 +1,10 @@
 {
     "name":"七头",
-    "description":"无聊弄懂",
-    "UpdateTime" : "2021-03-07"
+    "description":"无聊弄的",
+    "UpdateTime" : "2021-03-07",
+    "Author" : "七头",
+    "Description" : "无聊弄的！",
+    "Image" : "https://qxzy.top/images/logo.png",
     "task":[
         "* * * * * https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js, tag=切换会话, img-url=https://qxzy.top/rules/QuantumultX/img/box.png, enabled=true",
         "0,30 0-23 * * * https://raw.githubusercontent.com/josic2003/seven/main/Task/qmyd.js, tag=全民悦动, img-url=https://qxzy.top/rules/QuantumultX/img/qmyd.png, enabled=true",
