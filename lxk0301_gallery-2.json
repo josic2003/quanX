@@ -52,6 +52,13 @@
     "10 7 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_syj.js, tag=赚京豆, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_syj.png, enabled=true",
     "55 23 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_unsubscribe.js, tag=取关京东店铺商品, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
     "5 0 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jx_sign.js, tag=京喜签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
-    "15 17 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/xmSports.js, tag=小米运动, img-url=https://raw.githubusercontent.com/58xinian/icon/master/xmyd.png, enabled=true"
+    "15 17 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/xmSports.js, tag=小米运动, img-url=https://raw.githubusercontent.com/58xinian/icon/master/xmyd.png, enabled=true",
+    "0,30 0-23 * * * https://raw.githubusercontent.com/josic2003/seven/main/Task/qmyd.js, tag=全民悦动, img-url=https://qxzy.top/rules/QuantumultX/img/qmyd.png, enabled=true",
+    "15 0,6,12,18, * * * https://raw.githubusercontent.com/age174/-/main/ddxq.js, tag=嘀嗒星球, img-url=https://qxzy.top/rules/QuantumultX/img/ddxq.png, enabled=true",
+    "15 0,6,12,18, * * * https://raw.githubusercontent.com/age174/-/main/xsmm.js, tag=悬赏喵喵, img-url=https://qxzy.top/rules/QuantumultX/img/Yunsaoma.png, enabled=true",
+    "15 10 * * * https://qxzy.top/rules/QuantumultX/js/ZIYE/Task/ymzhuan.js, tag=羊毛赚, img-url=https://qxzy.top/rules/QuantumultX/img/ymz.png, enabled=true",
+    " 0,30 0-23 * * * https://raw.githubusercontent.com/josic2003/seven/main/Task/yuedongzu.js, tag=悦动族, img-url=https://qxzy.top/rules/QuantumultX/img/yuedongzu.png, enabled=true",
+    "15 12,14,16,20,22 * * * https://raw.githubusercontent.com/age174/-/main/ysm.js, tag=云扫码, img-url=https://s3.ax1x.com/2021/02/28/6CRWb8.jpg, enabled=true",
+    "15 12,14,16,20 * * * https://raw.githubusercontent.com/age174/-/main/dka.js, tag=蛋咖, img-url=https://s3.ax1x.com/2021/02/28/6C3Gpn.jpg, enabled=true"
   ]
 }
