@@ -1,6 +1,6 @@
 {
  "name": "七头",
- "description": "无聊弄的",
+ "description": "无聊弄的,感谢各位大佬的脚本",
  "task": [
     "0 9,12,20,21 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_global_mh.js, tag=京东国际盲盒, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
     "0 9,12,20,21 8-31 3 * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_global.js, tag=环球挑战赛, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
