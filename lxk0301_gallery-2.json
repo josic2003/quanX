@@ -2,7 +2,7 @@
  "name": "七头",
  "description": "自用脚本,感谢各位大佬的脚本",
  "task": [
-    "3 10 * * * https://raw.githubusercontent.com/i-chenzhe/qx/main/z_marketLottery.js, tag=京东超市-大转盘, img-url=https://qxzy.top/rules/QuantumultX/img/z_marketLottery.png
+    "3 10 * * * https://raw.githubusercontent.com/i-chenzhe/qx/main/z_marketLottery.js, tag=京东超市-大转盘, img-url=https://qxzy.top/rules/QuantumultX/img/z_marketLottery.png, enabled=true",
     "5 8,14,20 17-25 3 * https://raw.githubusercontent.com/i-chenzhe/qx/main/z_mother_jump.js, tag=母婴-跳一跳, img-url=https://qxzy.top/rules/QuantumultX/img/jd_jump-jump.png, enabled=true",
     "12 15 15-29 3 * https://raw.githubusercontent.com/i-chenzhe/qx/main/z_lenovo.js, tag=联想集卡活动, img-url=https://qxzy.top/rules/QuantumultX/img/z_lenovo.png, enabled=true",
     "5 1,6,11,16,21 * 3-4 * https://raw.githubusercontent.com/i-chenzhe/qx/main/z_super5g.js, tag=5G超级盲盒, img-url=https://qxzy.top/rules/QuantumultX/img/sgmh.png.png, enabled=true",
