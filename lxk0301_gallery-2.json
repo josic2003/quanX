@@ -2,7 +2,9 @@
  "name": "七头",
  "description": "自用脚本,感谢各位大佬的脚本",
  "task": [
-    "0 * 26 3 * https://raw.githubusercontent.com/josic2003/quanX/main/shylocks_jd_live_redrain_nian.js, tag=红包雨 img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
+    "5 1,6,11,16,21 * 3-4 * https://raw.githubusercontent.com/i-chenzhe/qx/main/z_super5g.js, tag=5G超级盲盒, img-url=https://qxzy.top/rules/QuantumultX/img/sgmh.png.png, enabled=true",
+    "11 12 17-30 3 * https://raw.githubusercontent.com/i-chenzhe/qx/main/z_oneplus.js, tag=一加盲盒, img-url=https://qxzy.top/rules/QuantumultX/img/sgmh.png.png, enabled=true",
+    "0 * 26 3 * https://raw.githubusercontent.com/josic2003/quanX/main/shylocks_jd_live_redrain_nian.js, tag=红包雨, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
     "2 9 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_bean_change.js, tag=京豆变动通知, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
     "10 7 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_bean_home.js, tag=领京豆额外奖励, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_bean_home.png, enabled=true",
     "0 0 0 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_blueCoin.js, tag=东东超市兑换奖品, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxc.png, enabled=true",
