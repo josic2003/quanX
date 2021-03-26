@@ -64,8 +64,9 @@
     "15 0,6,12,18, * * * https://raw.githubusercontent.com/age174/-/main/xsmm.js, tag=悬赏喵喵, img-url=https://qxzy.top/rules/QuantumultX/img/Yunsaoma.png, enabled=true",
     "15 10 * * * https://qxzy.top/rules/QuantumultX/js/ZIYE/Task/ymzhuan.js, tag=羊毛赚, img-url=https://qxzy.top/rules/QuantumultX/img/ymz.png, enabled=true",
     " 0,30 0-23 * * * https://raw.githubusercontent.com/josic2003/seven/main/Task/yuedongzu.js, tag=悦动族, img-url=https://qxzy.top/rules/QuantumultX/img/yuedongzu.png, enabled=true",
-    "15 12,14,16,20,22 * * * https://raw.githubusercontent.com/age174/-/main/ysm.js, tag=云扫码, img-url=https://s3.ax1x.com/2021/02/28/6CRWb8.jpg, enabled=true",
     "15 12,14,16,20 * * * https://raw.githubusercontent.com/age174/-/main/dka.js, tag=蛋咖, img-url=https://s3.ax1x.com/2021/02/28/6C3Gpn.jpg, enabled=true",
-    "50 12 * * * https://raw.githubusercontent.com/age174/-/main/yggy.js, tag=阳光果园, img-url= https://ae01.alicdn.com/kf/Ubf3bd5e9c2414c18a96a3a2b20a9d2c5C.jpg, enabled=true"
+    "50 12 * * * https://raw.githubusercontent.com/josic2003/AutoSyncScript/feizao/yggy.js, tag=阳光果园, img-url= https://ae01.alicdn.com/kf/Ubf3bd5e9c2414c18a96a3a2b20a9d2c5C.jpg, enabled=true",
+    "15 12,14,16,20 * * * https://raw.githubusercontent.com/josic2003/AutoSyncScript/feizao/fqkk.js, tag=番茄看看, img-url=https://ftp.bmp.ovh/imgs/2021/02/f8306006536eb49c.jpeg, enabled=true",
+    "15 12,14,16,20,22 * * * https://raw.githubusercontent.com/josic2003/AutoSyncScript/feizao/ysm.js, tag=云扫码, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Yunsaoma.png, enabled=true",
   ]
 }
