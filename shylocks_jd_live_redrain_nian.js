@@ -44,22 +44,22 @@ if ($.isNode()) {
 }
 const JD_API_HOST = 'https://api.m.jd.com/api';
 let ids = {
-   '0': 'RRA2v2Lh5mtxYnC4j6VHrjoaDz7crQK',
-  '9': 'RRA2v2Lh5mtxYnC4j6VHrjoaDz7crQK',
-  '10': 'RRA2v2Lh5mtxYnC4j6VHrjoaDz7crQK',
-  '11': 'RRA2v2Lh5mtxYnC4j6VHrjoaDz7crQK', 
-  '12': 'RRA2v2Lh5mtxYnC4j6VHrjoaDz7crQK',
-  '13': 'RRA2v2Lh5mtxYnC4j6VHrjoaDz7crQK', 
-  '14': 'RRA2v2Lh5mtxYnC4j6VHrjoaDz7crQK',
-  '15': 'RRA2v2Lh5mtxYnC4j6VHrjoaDz7crQK', 
-  '16': 'RRA2v2Lh5mtxYnC4j6VHrjoaDz7crQK',
-  '17': 'RRA2v2Lh5mtxYnC4j6VHrjoaDz7crQK',
-  '18': 'RRA2v2Lh5mtxYnC4j6VHrjoaDz7crQK',
-  '19': 'RRA2v2Lh5mtxYnC4j6VHrjoaDz7crQK', 
-  '20': 'RRA2v2Lh5mtxYnC4j6VHrjoaDz7crQK', 
-  '21': 'RRA2v2Lh5mtxYnC4j6VHrjoaDz7crQK',
-  '22': 'RRA3gsDuBBP5kYqknjTZ2h3VLkEpiT3',
-  '23': 'RRA3gsDuBBP5kYqknjTZ2h3VLkEpiT3', 
+   '0': 'RRA4RhWMc159kA62qLbaEa88evE7owb',
+  '9': 'RRA4RhWMc159kA62qLbaEa88evE7owb',
+  '10': 'RRA4RhWMc159kA62qLbaEa88evE7owb',
+  '11': 'RRA4RhWMc159kA62qLbaEa88evE7owb', 
+  '12': 'RRA4RhWMc159kA62qLbaEa88evE7owb',
+  '13': 'RRA4RhWMc159kA62qLbaEa88evE7owb', 
+  '14': 'RRA4RhWMc159kA62qLbaEa88evE7owb',
+  '15': 'RRA4RhWMc159kA62qLbaEa88evE7owb', 
+  '16': 'RRA4RhWMc159kA62qLbaEa88evE7owb',
+  '17': 'RRA4RhWMc159kA62qLbaEa88evE7owb',
+  '18': 'RRA4RhWMc159kA62qLbaEa88evE7owb',
+  '19': 'RRA4RhWMc159kA62qLbaEa88evE7owb', 
+  '20': 'RRA4RhWMc159kA62qLbaEa88evE7owb', 
+  '21': 'RRA4RhWMc159kA62qLbaEa88evE7owb',
+  '22': 'RRA4RhWMc159kA62qLbaEa88evE7owb',
+  '23': 'RRA4RhWMc159kA62qLbaEa88evE7owb', 
 
 }
 !(async () => {
